@@ -1,5 +1,5 @@
 # retrorreria
-funny garbage game i am making.
+funny garbage game i was making.
 
 walk - a, d, space.
 
